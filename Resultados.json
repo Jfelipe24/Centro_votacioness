@@ -1,0 +1,18 @@
+[
+    {
+        "candidato": "Juan Hernandez",
+        "votos": 7
+    },
+    {
+        "candidato": "Paula Garcia",
+        "votos": 4
+    },
+    {
+        "candidato": "Carlos Zapata",
+        "votos": 8
+    },
+    {
+        "candidato": "Sofia Castaño",
+        "votos": 6
+    }
+]
